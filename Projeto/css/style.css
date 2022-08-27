@@ -1,0 +1,11 @@
+.toolbar{
+    font-size: 14px;
+    text-align: center;
+}
+.toolbar ul{
+    list-style-type: none;
+}
+.toolbar ul li{
+    display: inline-block;
+    padding-right: 13px;
+}
